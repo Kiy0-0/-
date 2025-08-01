@@ -1,0 +1,28 @@
+    body {
+ background-color: #000;
+}
+
+
+    .container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+  }
+
+  footer {
+    background: #222;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+  a.text:active, /* активная/посещенная ссылка */
+a.text:hover,  /* при наведении */
+a.text {
+  text-decoration: none;
+  color: #ff00b3;
+}
+
+    .right-link {
+        text-align: right;
+    }
